@@ -1,0 +1,50 @@
+{
+  "working_days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+
+  "policies": {
+    "no_consecutive_lectures": true,
+    "no_same_subject_twice_same_day": true,
+    "one_lab_per_faculty_per_day": true,
+    "parallel_classes_allowed": true,
+    "no_lab_on_saturday": true,
+
+    "min_distinct_lectures_per_day": 4,
+    "min_distinct_lecture_exempt_days": ["Friday", "Saturday"],
+
+    "auto_retry": true,
+    "max_retries": 30,
+    "soften_on_retry": {
+      "allow_one_consecutive_on_retry": true,
+      "relax_min_distinct_on_retry": true,
+      "relaxed_min_distinct_floor": 3
+    }
+  },
+
+  "lecture_structure": {
+    "morning": [
+      ["09:00", "10:00"],
+      ["10:00", "11:00"]
+    ],
+    "afternoon": [
+      ["14:00", "15:00"],
+      ["15:00", "16:00"]
+    ]
+  },
+
+  "breaks": {
+    "short_break": ["11:00", "11:15"],
+    "long_break": ["13:15", "14:00"]
+  },
+
+  "lab_structure": {
+    "regular_lab": ["11:15", "13:15"],
+    "afternoon_lab": ["14:00", "16:00"]
+  },
+
+  "lab_rules": {
+    "regular_lab_days": ["Monday", "Tuesday", "Wednesday"],
+    "thursday_all_labs": true,
+    "friday_lab_after_break": true,
+    "saturday_no_lab": true
+  }
+}

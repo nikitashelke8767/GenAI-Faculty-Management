@@ -1,0 +1,44 @@
+﻿Day,Time,Course Name,Faculty,Room
+Monday,09:00-10:00,Design and Analysis of Algorithm,Kavita Manojkumar Patil,217
+Monday,10:00-11:00,Database Management Systems,Kirti Vasantrao Deshpande,217
+,11:00-11.15,BREAK,,
+Monday,11:15-01:15,Design and Analysis of Algorithm Lab,Kavita Manojkumar Patil,DSL
+,1:15-2.00,BREAK,,
+Monday,02:00-03:00,Calculus and transforms ,Rajendra Namdev Najan,217
+Monday,03:00-04:00,Computer Organization and Architecture,Vidyashree Mangaldas Kokane,217
+,,,,
+Tuesday,09:00-10:00,Database Management Systems,Kirti Vasantrao Deshpande,217
+Tuesday,10:00-11:00,Computer Organization and Architecture,Vidyashree Mangaldas Kokane,217
+,11:00-11.15,BREAK,,
+Tuesday,11:15-01:15,Database Management Systems Lab,Kirti Vasantrao Deshpande,AI LAB
+,1:15-2.00,BREAK,,
+Tuesday,02:00-03:00,"Introduction to Innovation, IP management & IPR",Kavita Pankaj Moholkar,217
+Tuesday,03:00-04:00,Design and Analysis of Algorithm,Kavita Manojkumar Patil,217
+,,,,
+Wednesday,09:00-10:00,Design and Analysis of Algorithm,Kavita Manojkumar Patil,217
+Wednesday,10:00-11:00,"Introduction to Innovation, IP management & IPR",Kavita Pankaj Moholkar,217
+,11:00-11.15,BREAK,,
+Wednesday,11:15-01:15,Data Analysis and Visualization Lab,Neeraj Sathawane ,AI LAB
+,1:15-2.00,BREAK,,
+Wednesday,02:00-03:00,Calculus and Transforms ,Rajendra Namdev Najan,217
+Wednesday,03:00-04:00,Database Management Systems,Kirti Vasantrao Deshpande,217
+,,,,
+Thursday,09:00-11:00,Co-Course Curriculum Lab,Kavita Manojkumar Patil,OSL
+,11:00-11.15,BREAK,,
+Thursday,11:15-12:15,Computer Organization and Architecture ,Vidyashree Mangaldas Kokane,217
+Thursday,12:15-1:15,Calculus and Transforms ,Rajendra Namdev Najan,217
+,1:15-2.00,BREAK,,
+Thursday,02:00-04:00,Business Communication and Value Science III,Suhasini Bhat,ESD LAB
+,,,,
+Friday,09:00-10:00,Design and Analysis of Algorithm,Kavita Manojkumar Patil,217
+Friday,10:00-11:00,Database Management Systems,Kirti Vasantrao Deshpande,217
+,11:00-11.15,BREAK,,
+Friday,11:15-01:15,Data Analysis and Visualization Lab,Neeraj Sathawane ,AI LAB
+,1:15-2.00,BREAK,,
+Friday,02:00-03:00,"Introduction to Innovation, IP management & IPR",Kavita Pankaj Moholkar,217
+Friday,03:00-04:00,Calculus and transforms ,Rajendra Namdev Najan,217
+,,,,
+Saturday ,09:00-10:00,DAA/DBMS,Kavita patil/ Kirti Deshpande,217
+Saturday ,10:00-11:00,CT,Rajendra Namdev Najan,217
+,11:00-11:15,BREAK,,
+Saturday ,11:15-12:15,GFM ,,217

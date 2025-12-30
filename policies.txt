@@ -1,0 +1,75 @@
+1. Maximum Workload Policy 
+o Maximum workload per professor is 12 hours per week. 
+o Faculty should not exceed their department-defined weekly limit. 
+2. Daily Workload Policy 
+o No faculty should teach more than 4 hours per day (configurable). 
+o Excess daily hours are considered rule violations. 
+3. Consecutive Hours Policy 
+o No faculty should have more than 3 consecutive teaching hours. 
+o After 3 continuous hours, a break is mandatory. 
+4. Break/Gap Policy 
+o Faculty should have at least one free slot between two sessions. 
+o Back-to-back classes are discouraged unless specified by department. 
+5. Availability Constraints 
+o Faculty must not be scheduled during their unavailable slots. 
+o Special duties such as meetings, TnP sessions, and exam duties must be 
+respected. 
+6. Room/Infrastructure Policies 
+o No two classes should be assigned to the same room at overlapping times. 
+o Labs must be scheduled only in lab rooms, theory classes only in theory 
+rooms. 
+o Room capacity must match or exceed the batch strength. 
+o Lab sessions may require contiguous slots. 
+7. Clash Prevention Rules 
+o A clash occurs when: 
+a. Same faculty is assigned to overlapping sessions. 
+b. Same room is assigned for overlapping sessions. 
+c. A faculty is scheduled during an unavailable slot. 
+d. Faculty exceeds max daily or weekly hours. 
+o Hard clashes must be automatically rejected. 
+o Soft clashes can be suggested for adjustment with alternatives. 
+8. Scheduling Constraints 
+o Respect the academic calendar, blocked weeks, and meeting hours. 
+o Practical (lab) sessions may require 2–3 continuous slots. 
+o Theory subjects typically require weekly 3–4 hours. 
+o Timetable must balance load across the week (avoid overloaded days). 
+9. Fairness & Load Distribution 
+o All faculty within a department should get a fair distribution of hours. 
+o Avoid giving one faculty many early-morning or late-afternoon slots 
+consistently. 
+o Workload summaries must highlight imbalance. 
+10. Data Requirements for Scheduling 
+o Faculty profiles (name, department, weekly hours). 
+o Courses handled and hours/week. 
+o Rooms/labs with type and capacity. 
+o Timeslots with day & hour. 
+o Academic calendar (holidays, exam weeks). 
+o Department-specific rules. 
+11. Timetable Adjustment Principles 
+o Any adjustment should try the following in order: 
+a. Move the session to the nearest free slot 
+b. Swap with another faculty’s slot (if qualified) 
+c. Change room to a free room 
+d. Suggest merging/splitting sessions (if allowed) 
+o Adjustments must minimize disruptions and maintain fairness. 
+12. Reporting & Auditing Requirements 
+o Weekly workload summary per professor. 
+o Department-level KPIs: 
+ Total hours 
+ Theory vs practical split 
+ Busiest day 
+ Room utilization 
+o Highlight rule violations (daily, weekly, consecutive hours). 
+o Export reports in CSV/PDF/iCal formats. 
+13. Scope of Scheduling 
+o UG/PG in-department timetables. 
+o Theory & practical classes. 
+o Institutional constraints and TnP slots. 
+o Input sources can include CSV/Excel/Database. 
+o Must support “what-if” edits and manual overrides. 
+14. General Timetable Guidelines 
+o Avoid clustering multiple tough subjects on the same day. 
+o Distribute classes evenly throughout the week. 
+o Prioritize faculty preferences if they do not violate rules. 
+o Ensure no duplication of faculty or room assignments. 
+o Maintain consistency (same class slot weekly, where possible).

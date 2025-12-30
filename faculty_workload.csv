@@ -1,0 +1,11 @@
+FacultyID,Name,Department,CourseCode,CourseName,HoursPerWeek
+F101,Kavita Manojkumar Patil,CSBS,CB2207T,Design and Analysis of Algorithm,3
+F102,Kavita Manojkumar Patil,CSBS,CB2207L,Design and Analysis of Algorithm Lab,2
+F103,Kirti Vasantrao Deshpande,CSBS,CB2208T,Database Management Systems,3
+F104,Kirti Vasantrao Deshpande,CSBS,CB2208L,Database Management Systems Lab,2
+F105,Vidyashree Mangaldas Kokane ,CSBS,CB2209T,Computer Organization and Architecture ,2
+F106,Neeraj Sathawane ,CSBS,CB2210L,Data Analysis and Visualization Lab,4
+F107,Kavita Pankaj Moholkar,CSBS,CB2211T,"Introduction to Innovation, IP management & IPR",2
+F108,Kavita Manojkumar Patil,CSBS,CB2212L,Co-curricular Course (lab),2
+F109,Rajendra Namdev Najan,CSBS,ES2203T,Calculus and Transforms,3
+F110,Suhasini Bhat,CSBS,HS2210L,Business Communication and Value Science III,2
